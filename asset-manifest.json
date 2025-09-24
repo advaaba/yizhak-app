@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yizhak-app/static/css/main.25c8fffd.css",
+    "main.js": "/yizhak-app/static/js/main.06c41bae.js",
+    "static/js/453.5b3260f3.chunk.js": "/yizhak-app/static/js/453.5b3260f3.chunk.js",
+    "static/media/pizzaLeft.jpg": "/yizhak-app/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/yizhak-app/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pizza.jpeg": "/yizhak-app/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/yizhak-app/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/yizhak-app/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/yizhak-app/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/yizhak-app/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/yizhak-app/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/margherita.jpg": "/yizhak-app/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/yizhak-app/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/yizhak-app/index.html",
+    "main.25c8fffd.css.map": "/yizhak-app/static/css/main.25c8fffd.css.map",
+    "main.06c41bae.js.map": "/yizhak-app/static/js/main.06c41bae.js.map",
+    "453.5b3260f3.chunk.js.map": "/yizhak-app/static/js/453.5b3260f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25c8fffd.css",
+    "static/js/main.06c41bae.js"
+  ]
+}
